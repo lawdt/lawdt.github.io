@@ -11,9 +11,6 @@ description: DevOps Engineer from Montenegro
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/lawdt/lawdt.github.io/master/images/devops_avatar.jpeg
 
-# images hosting try 1
-image_hosting: https://i.imgur.com/
-
 #
 # Flags below are optional
 #
@@ -51,6 +48,9 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+
+# images hosting try 1
+imgurl: https://i.imgur.com
 
 #
 # !! You don't need to change any of the configuration flags below !!
