@@ -13,4 +13,4 @@ title: Путеводитель DevOps Engineer'a к облакам и беск�
 
 С уважением, Дмитрий Лаврухин.
 
-![_config.yml]({{ site.baseurl }}/images/welcome.jpeg)
+![_config.yml]({{ site.imgurl }}/pAUGmF1.jpg)
