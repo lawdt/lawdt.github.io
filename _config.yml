@@ -2,7 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 # theme
-theme: jekyll-theme-midnight
+theme:
+remote_theme: 
 
 # Name of your site (displayed in the header)
 name: Dmitrii Lavrukhin
@@ -78,10 +79,10 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  - jekyll-remote-theme # current theme
 # Exclude these files from your production _site
 exclude:
   - Gemfile

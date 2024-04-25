@@ -13,4 +13,4 @@ title: Путеводитель DevOps Engineer'a к облакам и беск�
 
 С уважением, Дмитрий Лаврухин.
 
-![Devops steam locomotive]({{ site.imgurl }}/pAUGmF1.jpg)
+![Devops steam locomotive](/images/welcome.jpeg)
