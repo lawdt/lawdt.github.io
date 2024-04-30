@@ -1,0 +1,109 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Путеводитель DevOps Engineer'а
+subtitle: Дорога начинается с первого шага
+email: law.dim.reg+devops@google.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Тут будет описание
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lavr.one" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.25.0"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+#theme minimal mistakes settings
+repository: "lawdt/lawdt.github.io"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale: "ru"
+name: "Dmitrii Lavrukhin" # site name author
+logo: "/assets/images/devops_avatar.jpeg"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true
+      read_time: true
+      comments: true
+      author_profile: true
+      share: true
+      related: true
+
+date_format: "%Y-%m-%d"
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "lavr-one"
+
+search: false
+lunr:
+  search_within_pages: false
+
+author:
+  name     : "Dmitrii Lavrukhin"
+  avatar   : "/assets/images/devops_avatar.jpeg"
+  bio      : "Devops Engineer"
+  location : "Bar, Montenegro"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dmitry-lavrukhin-131bb836/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lawdt/lawdt.github.io"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/lawdt"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/user/lawdt2"
+
+include: ["_pages"]
