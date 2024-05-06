@@ -1,6 +1,8 @@
 ---
 title: Welcome page
-comments: true
+sidebar:
+  - image: /assets/images/welcome.jpeg
+    image_alt: "Devops steam locomotive"
 ---
 Добро пожаловать на мой персональный сайт! Здесь вы окунетесь в увлекательный мир автоматизации и разработки, который я исследую и преображаю вместе с вами.
 
@@ -11,5 +13,3 @@ comments: true
 Не стесняйтесь изучать мои публикации и делиться своими мыслями. Вместе мы можем сделать мир IT лучше и более инновационным!
 
 С уважением, Дмитрий Лаврухин.
-
-![Devops steam locomotive](/assets/images/welcome.jpeg)

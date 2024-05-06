@@ -70,8 +70,8 @@ defaults:
       show_date: true
       read_time: true
       comments: true
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
       related: true
 
 date_format: "%Y-%m-%d"
