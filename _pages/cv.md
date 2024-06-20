@@ -10,7 +10,7 @@ Download:
 
 <i class="fa-solid fa-location-dot"></i> Bar, Montenegro.<br>
 
-Experienced professional in Linux, OpenStack, Kubernetes, DevOps, and GitOps. Skilled in systems integration, cloud services, technical writing, and project management. Proven track record in infrastructure, CI/CD, and Kubernetes.
+Experienced professional in Linux, OpenStack, Kubernetes, DevOps, and GitOps. Skilled in systems integration, cloud services (AWS, Yandex), technical writing, and project management. Proven track record in infrastructure, CI/CD, and Kubernetes.
 
 ##### Languages
 * ★★★★★ Russian
@@ -20,6 +20,7 @@ Experienced professional in Linux, OpenStack, Kubernetes, DevOps, and GitOps. Sk
 * ★★★★★ Linux
 * ★★★★★ OpenStack
 * ★★★★★ Kubernetes
+* ***** AWS
 * ★★★★★ Ansible
 * ★★★★★ Jenkins
 * ★★★★★ terraform
@@ -32,7 +33,7 @@ Experienced professional in Linux, OpenStack, Kubernetes, DevOps, and GitOps. Sk
 _Lead DevOps Engineer at Nexign_
     
 Managed infrastructure for billing products in a software development company.
-Created infrastructure for developers.
+Managed AWS infrastructure for developers.
 Supported private cloud OpenStack installation and architected CI/CD processes closely related to OpenStack.
 Deployed Kubernetes clusters and provided ongoing support.
 
