@@ -20,7 +20,7 @@ Experienced professional in Linux, OpenStack, Kubernetes, DevOps, and GitOps. Sk
 * ★★★★★ Linux
 * ★★★★★ OpenStack
 * ★★★★★ Kubernetes
-* ***** AWS
+* ★★★★★ AWS
 * ★★★★★ Ansible
 * ★★★★★ Jenkins
 * ★★★★★ terraform
