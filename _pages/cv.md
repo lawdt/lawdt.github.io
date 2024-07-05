@@ -14,7 +14,7 @@ Experienced professional in Linux, OpenStack, Kubernetes, DevOps, and GitOps. Sk
 
 ##### Languages
 * ★★★★★ Russian
-* ★★★☆☆ English
+* ★★★★☆ English
 
 ##### Skills
 * ★★★★★ Linux
@@ -30,7 +30,7 @@ Experienced professional in Linux, OpenStack, Kubernetes, DevOps, and GitOps. Sk
 
 #### Work  Experience
 ###### August 2021 – Present
-_Lead DevOps Engineer at Nexign_
+_Senior DevOps Engineer at Nexign_
     
 Managed infrastructure for billing products in a software development company.
 Managed AWS infrastructure for developers.
