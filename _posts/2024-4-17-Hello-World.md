@@ -1,5 +1,6 @@
 ---
 title: Welcome page
+tags: blog
 sidebar:
   - image: /assets/images/welcome.jpeg
     image_alt: "Devops steam locomotive"

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Curriculum vitae
+title: "Curriculum vitae (лето 2024)"
 permalink: /cv
 ---
 Download:

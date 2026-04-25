@@ -26,6 +26,8 @@ gallery:
 
 {% include gallery %}
 
+[Моё резюме (лето 2024)](/cv){: .btn .btn--primary}
+
 ### Contact me
 
 [law.dim.reg+one@gmail.com](mailto:law.dim.reg+one@gmail.com)
