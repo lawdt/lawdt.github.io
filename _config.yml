@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Путеводитель DevOps Engineer'а
-subtitle: Дорога начинается с первого шага
+title: Лавский пишет
+subtitle: DevOps, эмиграция, DIY и всё остальное
 email: law.dim.reg+devops@google.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Тут будет описание
+  Личный блог Дмитрия Лаврухина. DevOps, жизнь в Черногории, DIY, игры.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lavr.one" # the base hostname & protocol for your site, e.g. http://example.com
 
