@@ -76,6 +76,10 @@ defaults:
 
 date_format: "%Y-%m-%d"
 
+tag_archive:
+  type: liquid
+  path: /tags/
+
 comments:
   provider: "disqus"
   disqus:

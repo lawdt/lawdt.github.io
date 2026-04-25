@@ -2,6 +2,7 @@
 title: "Pacific Drive — 90 часов в зоне аномалий"
 classes: wide
 tags: gaming indie
+excerpt: "Pacific Drive поначалу кажется хоррором. Оказываешься в непонятном мире, заполненном аномалиями в стиле Стругацких. Тебе дают старенький разбитый универсал, и во взаимодействии с этой машиной вся суть игры."
 ---
 
 ![Pacific Drive — гараж](/assets/images/pacific-drive.jpg)
