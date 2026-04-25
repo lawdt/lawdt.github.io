@@ -1,6 +1,8 @@
 ---
 title: Welcome page
 tags: blog
+header:
+  teaser: /assets/images/welcome.jpeg
 sidebar:
   - image: /assets/images/welcome.jpeg
     image_alt: "Devops steam locomotive"

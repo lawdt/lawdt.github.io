@@ -28,7 +28,7 @@ url: "https://lavr.one" # the base hostname & protocol for your site, e.g. http:
 
 # Build settings
 #theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.25.0"
+theme: "minimal-mistakes-jekyll"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
